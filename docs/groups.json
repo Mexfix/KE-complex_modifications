@@ -1,4 +1,8 @@
 {
+  "path": "json/your_awesome_configuration.json", // required
+  "extra_description_path": "extra_descriptions/your_awesome_configuration.html" // optional
+},
+{
   "index": [
     {
       "name": "Modifier Keys",
